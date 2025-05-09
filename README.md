@@ -2,6 +2,20 @@
 Pawnmap is an advanced penetration testing tool that extends the functionality of Nmap by integrating vulnerability detection and exploitation checks. It automates port scanning and correlates discovered services and versions with known vulnerabilities, making it a powerful asset in security assessments and red teaming engagements.
 
 
+## Set Up
+```
+git clone https://github.com/nathanbvn/pawnmap.git
+
+# Make it excecutable
+chmod +x pwnmap.py
+
+# Then create a symbolic link to be able to use it as a command :
+sudo ln -s PwnMap/pwnmap.py /usr/local/bin/pwnmap
+
+# Install Dependecies
+pip install -r requirements.txt
+```
+
 
 ## Format 
 
