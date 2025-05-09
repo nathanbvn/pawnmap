@@ -34,3 +34,20 @@ pwnmap -no <nmap options> -t HOST -o output.txt
 `ll` : Show Exploit list 
 
 `clear` : clear screen and retrieve nmap result
+
+
+## Use case 
+### *Search the vulnerabilities in a service*
+![image](https://github.com/user-attachments/assets/df7e1a35-fe85-48cd-bfed-9da00518e490)
+
+
+### *Get the exploit info*
+![image](https://github.com/user-attachments/assets/c0839e49-cd29-4d4c-95c9-8733b0b0171e)
+
+
+### *Make a precise search for version*
+![image](https://github.com/user-attachments/assets/f285c719-439d-4a88-906d-5cb11b1b19fe)
+
+
+### *Prepare an attack plan by saving different exploits that can be useful in the saves list*
+![image](https://github.com/user-attachments/assets/2426f71c-b0a4-4d0f-ae64-bebe0823c6f8)
